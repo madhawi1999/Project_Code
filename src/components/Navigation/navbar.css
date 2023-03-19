@@ -1,0 +1,44 @@
+.navBarBox{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(99, 4, 94);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    border-radius: 20px;
+    top: 0;
+}
+
+.navBarLeft{
+    flex: 4;
+}
+
+.navBarCenter{
+    flex: 5;
+}
+
+.navBarRight{
+    flex: 3;
+}
+
+.logo{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    font-weight: bold;
+    color: beige;
+    cursor: pointer;
+}
+.searchBarBox{
+    width: 500%;
+    height: 50px;
+    color: azure;
+    border-radius: 30px;
+    align-items: center;
+}
+.searchIcon{
+    width: 30%;
+    height: 50%;
+    border-radius: 30px;
+}
+

@@ -1,0 +1,12 @@
+.Heading1{
+    font-family: Georgia;
+    align-items: center;
+    font-size: 150%;
+    color: blue;
+}
+
+.text1{
+    font-size: 100%;
+    align-items: right;
+    font-family: 'Times New Roman';
+}

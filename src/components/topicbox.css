@@ -1,0 +1,17 @@
+.Topic{
+    
+    background-color: rgb(240, 199, 234);
+    width: 100%;
+    height: 20%;
+    border-radius: 10px;
+    align-content: last baseline;
+    
+}
+
+.text{
+    font-size: 400%;
+    font-family: roboto;
+    color: rgb(211, 7, 99);
+    margin-left: 20;
+    text-align: center;
+}

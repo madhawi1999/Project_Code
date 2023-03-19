@@ -1,0 +1,27 @@
+.paragraph1{
+    background-color: rgb(4, 0, 8);
+    width:150 px;
+}
+
+.Heading1{
+    font-family: Georgia;
+    align-items: center;
+    font-size: 150%;
+    color: blue;
+
+
+}
+
+.Heading2{
+    font-family: Georgia;
+    align-items: center;
+    font-size: 150%;
+    color: blue;
+}
+
+.text1{
+    font-size: 100%;
+    align-items: right;
+    font-family: 'Times New Roman';
+}
+
